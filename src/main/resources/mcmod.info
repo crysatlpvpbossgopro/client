@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "client",
+    "name": "Client",
+    "description": "",
+    "version": "1",
+    "mcversion": "1.12.2",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["yoink"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
